@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Ashraf</h1>
-<h3 align="center">Backend Developer | .NET & C# Specialist | WordPress Plugin Expert | WooCommerce Automation Engineer</h3>
+<h3 align="center">Backend Developer | .NET & C# Developer | WordPress Plugin Expert | WooCommerce Specialist</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdelrahman-ashraf-elassy/" target="_blank">
